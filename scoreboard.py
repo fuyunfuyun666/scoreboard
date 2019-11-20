@@ -1,4 +1,4 @@
-from copy import deepcopy
+﻿from copy import deepcopy
 
 
 def issue_transfer(
